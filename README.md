@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Shiny application allows users to upload a sales CSV file and filter records by date, State, Region, Category, and Sub.Category. The filtered data is displayed with the columns: Order.Date, State, Region, Category, Sub.Category, Sales, Quantity, Discount, and Profit.
+This Shiny application allows users to upload a sales CSV file and filter records by date, State, Region, Category, and Sub.Category. The filtered data is displayed with the columns: Order.Date, State, Region, Category and Sub.Category.
 
 ## Getting Started
 
@@ -20,7 +20,8 @@ This Shiny application allows users to upload a sales CSV file and filter record
    - Upload your CSV file via the interface.
    - Use the filters to select date range, State, Region, Category, and Sub.Category.
    - View the filtered sales data in the table.
-
+4. **Sample_superstore.csv**:
+   - User can use this file to test the aap funcationality
 ## Required R Packages
 
 - `shiny`
