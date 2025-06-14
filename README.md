@@ -20,7 +20,12 @@ This Shiny application allows users to upload a sales CSV file and filter record
    - Upload your CSV file via the interface.
    - Use the filters to select date range, State, Region, Category, and Sub.Category.
    - View the filtered sales data in the table.
+   - 
+   
+   -A sample_superstore.csv file is provided at git to test the Aap
+   -Upload the sample_superstore.csv file and start playing with filters.
 4. **Sample_superstore.csv**:
+   -Click this link to open the aap https://drsalmansaleem.shinyapps.io/interactive_sales_table/
    - User can use this file to test the aap funcationality
 ## Required R Packages
 
