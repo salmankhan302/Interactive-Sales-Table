@@ -1,5 +1,5 @@
 ---
-title: Sales Data Filter Shiny App
+title: Filter Sales Data Using Shiny App
 author: Salman Saleem
 output: ioslides_presentation
 ---
@@ -47,8 +47,18 @@ output: ioslides_presentation
 2. Upload your sales CSV file using the provided button.
 3. Use the sidebar filters to narrow down your data.
 4. The main panel displays the filtered results in an interactive table.
-5. A sample_superstore.csv file is provided at git to test the aap 
-6. URL link to the Aap http://127.0.0.1:5066/
+
+---
+
+## Let's test the aap 
+
+
+1. Click this link to open the aap  https://drsalmansaleem.shinyapps.io/interactive_sales_table/
+2. Link of project at git https://github.com/salmankhan302/Interactive-Sales-Table
+3. A sample_superstore.csv file is provided at git to test the Aap 
+4. Upload the sample_superstore.csv file and start playing with filters. 
+
+
 
 
 ---
@@ -58,4 +68,5 @@ output: ioslides_presentation
 - The Sales Data Filter Shiny App provides a simple way to explore and filter sales data.
 - Adapt the app for your business needs.
 - For further analysis, filtered data can be exported and visualized as needed.
-- Questions? Contact the developer or refer to the documentation for more details.
+
+
